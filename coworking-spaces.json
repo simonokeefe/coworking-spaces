@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Idea Collective",
+        "Address": "Level 1, rear 209 Nicholson St, Footscray (Entry via Mechanics Way)",
+        "URL": "http://theideacollective.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.89919126033783,
+          -37.802888144264834
+        ]
+      }
+    }
+  ]
+}
