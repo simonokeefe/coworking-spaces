@@ -15,6 +15,21 @@
           -37.802888144264834
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Connect Education",
+        "URL": "http://www.creativespaces.net.au/find-a-space/cheap-247-space-for-individuals-teams",
+        "Address": "L4 256 Queen Street Melbourne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.95984,
+          -37.81252
+        ]
+      }
     }
   ]
 }
